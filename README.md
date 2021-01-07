@@ -7,6 +7,7 @@ Created by:
 - Fadhil Abubaker: Tweets.
 
 Note: This is not the final build. You can download that from here: https://itch.io/jam/gameqode/rate/868755
+
 This repo only exists to show the work done, if needed. 
 
 Unity version used: 2020.2.0f1
